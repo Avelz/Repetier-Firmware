@@ -32,3 +32,6 @@ src/ArduinoDUE/Repetier.zip
 src/ArduinoAVR/Repetier.zip
 
 workspace.xml
+
+.pioenvs
+.piolibdeps
